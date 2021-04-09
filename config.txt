@@ -1,0 +1,1 @@
+--metric CharMatch --metric WER --metric CER:s<(\\[nt]|\ )+><\ >N<CER> --precision 3  --in-header in-header.tsv  --out-header out-header.tsv
